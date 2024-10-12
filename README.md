@@ -1,5 +1,8 @@
 # SampleMLApp
-The **SampleMLApp** demonstrates the power of on-device Machine Learning (ML) by running a **TensorFlow Lite (TFLite)** model directly on an Android device. With on-device ML, all computations happen locally on the phone, ensuring **faster predictions**, **enhanced privacy**, and the ability to work **offline** without relying on internet access. This app makes it easy to explore how ML models can be integrated into mobile applications for tasks like **image classification**, showcasing how accessible and exciting AI has become for mobile developers. Students can learn how to leverage these capabilities to build smarter apps that can perform real-time predictions directly on their devices.
+The **SampleMLApp** demonstrates the power of on-device Machine Learning (ML) by running a **TensorFlow Lite (TFLite)** model directly on an Android device. With on-device ML, all computations happen locally on the phone, ensuring **faster predictions**, **enhanced privacy**, and the ability to work **offline** without relying on internet access. This app makes it easy to explore how ML models can be integrated into mobile applications for tasks like **image classification**, showcasing how accessible and exciting AI has become for mobile developers. 
+
+<img src="https://github.com/sandeep-iitr/Android_ML_Project/blob/main/MainScreen.png" alt="Main Screen" width="400"/>
+
 
 ## Understanding the Code/Concepts
 
