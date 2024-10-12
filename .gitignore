@@ -1,0 +1,67 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+
+# Gradle files
+.gradle/
+build/
+**/build/
+*/local.properties
+*.iml
+
+# Android Studio generated files
+.idea/
+.cache/
+*.log
+*.hprof
+*.swp
+.DS_Store
+.classpath
+.project
+
+# APKs and binary files
+*.apk
+*.ap_
+*.dex
+*.jar
+*.so
+*.zip
+*.aab
+
+# IntelliJ generated files
+out/
+*.iws
+*.ipr
+*.iml
+
+# Keystore files (important for security)
+*.keystore
+*.jks
+
+# Log files
+*.log
+
+# Generated JSON and XML files
+*.json
+*.xml
+
+# Avoid pushing large ML models
+**/ml_model/
+*.tflite
+*.onnx
+*.h5
+*.ckpt
+
